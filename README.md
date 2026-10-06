@@ -121,8 +121,10 @@ Description...
 
 ## 💼 Experience
 
-**Job Title — Company Name**
-*Month Year – Present*
+**INGRAM MICRO**
+*Jan - July*
+**Luxmor AI Technology**
+*Aug - Present**
 
 Short professional description of the role.
 
